@@ -6,3 +6,8 @@ section {
 img {
   height: 300px;
 }
+
+#chartContainer {
+  height: 300px;
+  width: 100%;
+}
