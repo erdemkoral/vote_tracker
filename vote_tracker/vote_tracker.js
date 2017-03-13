@@ -119,3 +119,4 @@ function chart() {
 window.addEventListener("load", showImages);
 window.addEventListener("load", chart);
 //window.addEventListener("load", makeImagesClickable);
+
